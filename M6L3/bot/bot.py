@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-API_TOKEN = '7300895613:AAFp5L5jCu2xQAHSlnBTWsdGVpVc0KDcAzY'
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 # Установим начальное сообщение с кнопками
